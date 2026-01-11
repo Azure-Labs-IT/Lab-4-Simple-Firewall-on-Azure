@@ -46,7 +46,7 @@ Since we're sending traffic to the Linux machine we need to see it's network tra
 </p>
 
 <p align="center">
-3. A new screen will pop up showing the virtual machine info. Under the Networking dropdown go to Network Settings, you should see some of the Network rules that were already set by Azure or you when setting up the Virtual Machine. From the Network Settings screen click on the Network Security Group assigned to the Linux virtual machine:  <br/>
+3. A new screen will pop up showing the virtual machine info. Under the Networking dropdown go to Network Settings, you should see some of the Network rules that were already set by Azure or you when setting up the Virtual Machine. From the Network Settings screen click on the Network Security Group (NSG) assigned to the Linux virtual machine:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-4-Simple-Firewall-on-Azure/blob/main/3.%20Under%20Networking%20go%20to%20Network%20Settings%20and%20then%20click%20on%20the%20Network%20Security%20Group%20assigned%20to%20the%20Linux%20virtual%20machine.png" height="80%" width="80%" alt="Go to Network Security Group"/>
 <br />
 <br />
