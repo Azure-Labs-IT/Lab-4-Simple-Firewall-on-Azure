@@ -1,6 +1,5 @@
 # Lab-4-Simple-Basic-Firewall-on-Azure
-This projects consists of guidelines on how to configure a simple basic firewall on Azure Virtual Machine(s)
-
+This lab focuses on securing cloud infrastructure by configuring a Network Security Group (NSG) to act as a basic stateful firewall for Azure Virtual Machines
 <h1>Azure simple firewall configuration</h1>
 
 <h2>Description</h2>
